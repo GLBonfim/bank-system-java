@@ -12,8 +12,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/GLBonfim/simple-bank-info/assets/153637878/YOUR_IMAGE_HASH" alt="Preview of the app" width="600"/>
+  <img src="https://raw.githubusercontent.com/GLBonfim/simple-bank-info/main/preview.png" alt="Preview do programa rodando" width="600"/>
 </p>
+
 
 ---
 
